@@ -1,0 +1,6 @@
+day2
+list, separated css
+https://jsfiddle.net/4h8g79fd/
+
+table and float
+https://jsfiddle.net/4h8g79fd/3/

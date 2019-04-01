@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+<head>
+<style>
+   
+
+</style>
+</head>
+
+<h1> hello, world! </h1>
+
+<div>
+
+<span> Warna-warna </span>
+<ul class="kiri30">
+<li class="ijo"> merah </li>
+<li> kuning </li>
+<li> hijau </li>
+</ul>
+
+</div>
+
+<div>
+</br>
+<span> Buah-buahan </span>
+<ol>
+<li> jambu </li>
+<li> mangga </li>
+<li> apel </li>
+</ol>
+
+</div>
+
+
+</body>
+</html>
